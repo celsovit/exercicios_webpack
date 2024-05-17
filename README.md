@@ -397,7 +397,7 @@ module.exports = {
 }
 ```
 
-#### arquivos para testes com SCSS (SASS)
+#### Arquivos para testes com SCSS (SASS)
 Para testarmos o webpack com arquivos _.SCSS_ vamos criar em _/src/assets/scss_ os arquivos _botao.scss_ e _index.scss_:
 
 - _index.scss_
